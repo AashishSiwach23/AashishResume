@@ -24,9 +24,7 @@
       "startDate": "2024",
       "endDate": "10-10-2024",
       "highlights": [
-        "It is an ATM simulator which can register new customers of
-bank and then provide ATM services to them like deposit,
-withdrawal, balance inquiry etc."
+        "It is an ATM simulator which can register new customers of bank and then provide ATM services to them like deposit, withdrawal, balance inquiry etc."
       ]
     },
     {
@@ -35,8 +33,7 @@ withdrawal, balance inquiry etc."
       "startDate": "2023",
       "endDate": "10-10-2023",
       "highlights": [
-        "We created a library database in the backend with SQL and
-managed it with MS SQL Server as a DBA."
+        "We created a library database in the backend with SQL and managed it with MS SQL Server as a DBA."
       ]
     },
     {
@@ -45,10 +42,7 @@ managed it with MS SQL Server as a DBA."
       "startDate": "2024",
       "endDate": "10-10-2024",
       "highlights": [
-        "This website is designed for Government Polytechnic
-Meham college students to access books, handwritten
-notes, and publications like Bhagwatgeeta and Ramayana,
-as well as daily Hindi/English newspapers.."
+        "This website is designed for Government Polytechnic Meham college students to access books, handwritten notes, and publications like Bhagwatgeeta and Ramayana, as well as daily Hindi/English newspapers.."
       ]
     }
   ],
