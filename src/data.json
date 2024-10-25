@@ -1,62 +1,54 @@
 {
   "meta": {
-    "name": "Emily Johnson",
+    "name": "Aashish Kumar",
     "title": "Software Engineer",
-    "website": "https://emjo.biz",
-    "location": "Seattle, WA",
-    "email": "emily.johnson@example.com",
-    "phone": "+1 (555) 987-6543",
-    "bio": "Dedicated software engineer with a strong background in building robust and scalable applications. Skilled in Java, Python, and JavaScript technologies. Experienced with Meta, Amazon, and Google."
+    "website": "https://aashishsiwach.netlify.app/",
+    "location": "Haryana, India",
+    "email": "aashishsiwach23@gmail.com",
+    "phone": "+91 9728166123",
+    "bio": "Dedicated computer science enthusiast with a solid educational background and hands-on experience in web development and database management. Currently pursuing a Bachelor of Technology in Computer Science, expecting to graduate in July 2025."
   },
   "education": [
     {
-      "institution": "University of Washington",
-      "location": "Seattle, WA",
+      "institution": "Chandigarh Group of Colleges, Landran (Mohali)",
+      "location": "Mohali, Punjab",
       "area": "Computer Science",
-      "degreeType": "Bachelor of Science",
-      "endDate": "2015"
+      "degreeType": "Bachelor of Technology",
+      "endDate": "2025"
     }
   ],
-  "work": [
+  "Projects": [
     {
-      "company": "Google",
-      "position": "Senior Software Engineer",
-      "location": "Mountain View, CA",
-      "startDate": "2020",
-      "endDate": "Present",
+      "Name": "Bank Management System",
+      "Role": "Developer",
+      "startDate": "2024",
+      "endDate": "10-10-2024",
       "highlights": [
-        "Developing machine learning algorithms for search optimization and personalized content recommendations",
-        "Mentoring junior engineers in coding best practices and fostering a culture of continuous learning",
-        "Led performance optimization initiatives resulting in 40% faster response times and enhanced user experience",
-        "Collaborated with product teams to define technical requirements and priorities for new feature development"
+        "It is an ATM simulator which can register new customers of
+bank and then provide ATM services to them like deposit,
+withdrawal, balance inquiry etc."
       ]
     },
     {
-      "company": "Amazon",
-      "position": "Software Development Engineer",
-      "location": "Seattle, WA",
-      "startDate": "2017",
-      "endDate": "2020",
+     "Name": "Library Database",
+      "Role": "Developer and Administrator",
+      "startDate": "2023",
+      "endDate": "10-10-2023",
       "highlights": [
-        "Designed and implemented microservices architecture to improve system scalability",
-        "Collaborated with product teams to define technical requirements and priorities for new feature development",
-        "Led a team of 5 engineers in project delivery and coordinated sprint planning activities",
-        "Improved system reliability by 30% through automated testing and continuous integration practices",
-        "Contributed to code review process and maintained code quality standards across the team"
+        "We created a library database in the backend with SQL and
+managed it with MS SQL Server as a DBA."
       ]
     },
     {
-      "company": "Meta",
-      "position": "Software Engineer",
-      "location": "Menlo Park, CA",
-      "startDate": "2015",
-      "endDate": "2017",
+      "Name": "Static Library Website",
+      "Role": "Developer",
+      "startDate": "2024",
+      "endDate": "10-10-2024",
       "highlights": [
-        "Developed backend systems for social media platform",
-        "Optimized database performance resulting in 20% faster response times",
-        "Collaborated with cross-functional teams to deliver features on schedule and meet project milestones",
-        "Collaborated with product teams to define technical requirements and priorities for new feature development",
-        "Implemented RESTful APIs for external integrations and ensured data security measures"
+        "This website is designed for Government Polytechnic
+Meham college students to access books, handwritten
+notes, and publications like Bhagwatgeeta and Ramayana,
+as well as daily Hindi/English newspapers.."
       ]
     }
   ],
@@ -69,35 +61,11 @@
       "name": "Tools & Technologies",
       "keywords": [
         "Docker",
-        "Kubernetes",
-        "Git",
+        "Git/Github",
         "MySQL",
-        "MongoDB",
-        "PostgreSQL"
+        "Java",
+        "Microsoft SQL Server"
       ]
-    }
-  ],
-  "projects": [
-    {
-      "description": "The library for web and native user interfaces.",
-      "url": "https://github.com/facebook/react",
-      "name": "React.js",
-      "repo": "facebook/react",
-      "stars": "221k"
-    },
-    {
-      "description": "Cybernetically enhanced web apps.",
-      "url": "https://github.com/sveltejs/svelte",
-      "name": "Svelte.js",
-      "repo": "sveltejs/svelte",
-      "stars": "76.3k"
-    },
-    {
-      "description": "Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
-      "url": "https://github.com/vuejs/core",
-      "name": "Vue.js",
-      "repo": "vuejs/core",
-      "stars": "44.4k"
     }
   ]
 }
